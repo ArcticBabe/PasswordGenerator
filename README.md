@@ -1,10 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## PasswordGenerator
 
-<p align="center">
-  <a href="https://github.com/roshanlam/ReadMeTemplate/">
-    <img src="ssh.jpg" alt="Logo">
-  </a>
+[Generation Results](ssh.jpg)
 
 This is an example on how the results will be, there is (at the moment) only 2 modes
 
