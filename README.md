@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ## PasswordGenerator
 
-[Generation Results](ssh.jpg)
+[Generation Results](ss.jpg)
 
 This is an example on how the results will be, there is (at the moment) only 2 modes
 
