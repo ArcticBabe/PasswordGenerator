@@ -5,12 +5,13 @@ from string import digits
 from string import punctuation
 from random import choice
 
+
 # Start
 def Gen(mode, lenght):
-    
-    ''' Creates a password using the given parameters,
+
+    """ Creates a password using the given parameters,
     such as the mode of the gen and the lenght of the
-    password.'''
+    password. """
 
     count = 0
     password = ''
@@ -35,4 +36,3 @@ if __name__ == "__main__":
     Mode 2: (Without Punctiation)
     {Gen(2,15)}
 ''')
-
