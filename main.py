@@ -15,15 +15,14 @@ def Gen(mode, lenght):
         while count != lenght:
             password += password.join(choice(chars))
             count += 1
-        return password
     elif mode == 2: # Mode 2 does not use punctuation
         chars = uppercase + lowercase + digits
         while count != lenght:
             password += password.join(choice(chars))
             count += 1
-        return password
     else:
         print('That mode dont exist')
+    return password
 
 if __name__ == "__main__":
     print(f'Mode 1 (With Punctuation): \n{Gen(1, 15)} \n\nMode 2: (Without Punctiation)\n{Gen(2,15)}')
